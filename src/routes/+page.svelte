@@ -6,4 +6,4 @@
 
 <p> Salve </p>
 
-<img src="images/mike.png" alt="A description of the image" width="500">
+<img src="images/mike.png" alt="IMG" width="500">
